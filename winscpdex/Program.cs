@@ -1,0 +1,42 @@
+﻿using System;
+using System.Linq;
+using WinSCP;
+
+class Program
+{
+    static int Main(string[] args)
+    {
+        try
+        {
+            // Setup session options
+            SessionOptions sessionOptions = new SessionOptions
+            {
+                Protocol = Protocol.Sftp,
+                HostName = "dex.readgroup.co.uk",
+                UserName = "email address",
+                Password = "password",
+                SshHostKeyFingerprint = "ssh-dss 2048 +nj4UntdWpK3baDAvzM784kEY7Vj97sNWyB48+noUKQ=",
+            };
+
+            using (Session session = new Session())
+            {
+                // Connect
+                session.Open(sessionOptions);
+
+                // Transfer files
+                session.GetFiles("/Weekly Feeds/*.csv", @"Y:\Single Customer View\Data\Sources\*").Check();
+
+            }
+
+            return 0;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Error: {0}", e);
+            return 1;
+        }
+    }
+}
+
+// https://winscp.net/eng/docs/script_download_most_recent_file
+// https://www.nuget.org/packages/WinSCP/

@@ -1,0 +1,20 @@
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\bin\Debug\WinSCP.exe
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\bin\Debug\winscpdex.exe.config
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\bin\Debug\winscpdex.exe
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\bin\Debug\winscpdex.pdb
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\bin\Debug\WinSCPnet.dll
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.AssemblyReference.cache
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.CoreCompileInputs.cache
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.CopyComplete
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\obj\Debug\winscpdex.exe
+C:\Users\a-dlove\Source\Repos\winscpdex\winscpdex\obj\Debug\winscpdex.pdb
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\bin\Debug\WinSCP.exe
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\bin\Debug\winscpdex.exe.config
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\bin\Debug\winscpdex.exe
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\bin\Debug\winscpdex.pdb
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\bin\Debug\WinSCPnet.dll
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.AssemblyReference.cache
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.CoreCompileInputs.cache
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\obj\Debug\winscpdex.csproj.CopyComplete
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\obj\Debug\winscpdex.exe
+Y:\Single Customer View\Integration Services\SCV Solutions\winscpdex\winscpdex\obj\Debug\winscpdex.pdb
